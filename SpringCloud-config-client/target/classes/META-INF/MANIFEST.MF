@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringCloud-config-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Yong.Ni
+Implementation-Vendor-Id: SpringCloud-config-client
+Build-Jdk: 1.8.0_92
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringCloud-config-client
+Created-By: Maven Integration for Eclipse
+
